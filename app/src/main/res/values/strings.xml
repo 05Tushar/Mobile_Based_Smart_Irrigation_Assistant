@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Irrigation Guide</string>
+
+    <string-array name="crops">
+        <item>Jhona Vadd kank beej</item>
+        <item>Wheat</item>
+        <item>Rice</item>
+        <item>Barley</item>
+        <item>Corn</item>
+        <item>Sugarcane</item>
+        <item>Cotton</item>
+    </string-array>
+</resources>
